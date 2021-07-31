@@ -1,1 +1,2 @@
-from utils.dataloader import *
+from .dataloader import *
+from .configs import *
